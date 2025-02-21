@@ -15,8 +15,8 @@ channels = 2  # Stereo audio
 dtype = np.int16  # Data type for recording
 
 # API Keys (Replace with your actual keys)
-ASSEMBLYAI_API_KEY = "ad0432a4de464cab9ff0709c13b2438c"
-GEMINI_API_KEY = "AIzaSyCffP0aGrU7cXR_w_uSuBhk4jMyfBTsUpM"
+ASSEMBLYAI_API_KEY = "your_assemblyai_api_key"
+GEMINI_API_KEY = "your_gemini_api_key"
 
 # Initialize AssemblyAI
 aai.settings.api_key = ASSEMBLYAI_API_KEY

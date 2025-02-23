@@ -1,7 +1,7 @@
-# Meeting Recorder
+# Voice_to_Action
 
 ## Overview
-Meeting Recorder is a Python-based application that records both microphone and speaker audio during meetings, transcribes the audio using AssemblyAI, and generates a summary using Google's Gemini AI. The application comes with a simple Tkinter GUI for easy usage.
+Voice_to_Action is a Python-based application that records both microphone and speaker audio during meetings, transcribes the audio using AssemblyAI, and generates a summary using Google's Gemini AI. The application comes with a simple Tkinter GUI for easy usage.
 
 ## Features
 - **Record Audio:** Captures both microphone and speaker audio.
@@ -46,14 +46,14 @@ python main.py
 3. **Create a Shortcut**:
    - Right-click on Desktop → New → Shortcut.
    - Browse to the `.exe` file and select it.
-   - Click **Next**, name it "Meeting Recorder", and click **Finish**.
+   - Click **Next**, name it "Voice_to_Action", and click **Finish**.
 
 ### For macOS/Linux
 Follow instructions in the main project documentation for setting up `.command` or `.desktop` files.
 
 ## File Structure
 ```
-Meeting Recorder/
+Voice_to_Action/
 │-- main.py
 │-- recordings/
 │   │-- meeting_01-01-2025 12-30-00/
@@ -67,5 +67,5 @@ Meeting Recorder/
 ## Contributing
 If you'd like to contribute, feel free to fork the repo and submit a pull request!
 
-**Enjoy using Meeting Recorder! 🚀**
+**Enjoy using Voice_to_Action! 🚀**
 

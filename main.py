@@ -144,7 +144,7 @@ def run_summarization(transcript, audio_file):
 
 # GUI Setup
 root = tk.Tk()
-root.title("Voice Recorder & Transcriber")
+root.title("Meeting Transcriber")
 root.geometry("1000x500")
 root.configure(bg="#f0f0f0")
 

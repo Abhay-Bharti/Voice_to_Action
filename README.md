@@ -3,6 +3,8 @@
 ## Overview
 Voice_to_Action is a Python-based application that records both microphone and speaker audio during meetings, transcribes the audio using AssemblyAI, and generates a summary using Google's Gemini AI. The application comes with a simple Tkinter GUI for easy usage.
 
+### For Presentation of Project [Click here](https://shorturl.at/yJTWF)
+
 ## Features
 - **Record Audio:** Captures both microphone and speaker audio.
 - **Transcription:** Uses AssemblyAI to transcribe speech into text.
